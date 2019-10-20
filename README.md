@@ -10,4 +10,6 @@ _Cooking isn't as difficult as it seems and can be very rewarding. The problem i
 + **Manual Search**
 + **Efficient Filters for searches**
 + **Ability to save and anotate recipes**
-+ 
++ **Meal Prep Generator**
++ **Shopping Cart Generator**
+
